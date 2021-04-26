@@ -1,0 +1,4 @@
+﻿  GameBoard.cpp
+c:\Users\Acer\source\repos\exam\GameBoard.cpp(54,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\Users\Acer\source\repos\exam\GameBoard.cpp(177,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  exam.vcxproj -> C:\Users\Acer\source\repos\exam\Debug\exam.exe

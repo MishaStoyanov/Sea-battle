@@ -1,0 +1,2 @@
+C:\Users\Acer\source\repos\exam\Debug\exam.exe
+C:\Users\Acer\source\repos\exam\Debug\exam.pdb
